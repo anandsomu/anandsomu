@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anandsomu
 - 👀 I’m interested in Backend Development 
-- 🌱 I’m currently learning Java, Spring, Python, Django, Flask 
+- 🌱 I work majorly in Java, Spring, Python, Django, Flask 
 - 💞️ I’m looking to collaborate on Open Source Projects
 
 <!---
